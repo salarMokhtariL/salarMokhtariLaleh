@@ -9,31 +9,29 @@ const SDT = () => {
     <div className='skill__box'>
         <div className='skills__group'>
             <div className='skills__data'>
-            <i class='bx bx-shape-circle'></i>
+            <i class='bx bx-math'></i>
                             <div>
                     <h3 className='skills__name'>GLM</h3>
                     <span className='skills__level'></span>
                 </div>
             </div>
             <div className='skills__data'>
-            <i class='bx bx-shape-circle'></i>
-                <div>
+            <i class='bx bx-math'></i>
+                            <div>
                     <h3 className='skills__name'>Trees</h3>
                     <span className='skills__level'> </span>
                 </div>
             </div>
             
             <div className='skills__data'>
-            <i class='bx bx-shape-circle'></i>
-                <div>
+            <i class='bx bx-math'></i>                <div>
                     <h3 className='skills__name'>Boosting</h3>
                     <span className='skills__level'></span>
                 </div>
             </div>
             <div className='skills__data'>
-            <i class='bx bx-shape-circle'></i>
-                <div>
-                    <h3 className='skills__name'>Text mining
+            <i class='bx bx-math'></i>                <div>
+                    <h3 className='skills__name'>Text-mining
 </h3>
                     <span className='skills__level'></span>
                 </div>
@@ -42,26 +40,22 @@ const SDT = () => {
         <div className='skills__group'>
           
             <div className='skills__data'>
-            <i class='bx bxl-graphql' ></i>
-                <div>
+            <i class='bx bx-math'></i>                <div>
                     <h3 className='skills__name'>Weeka</h3>
                 </div>
             </div>
             <div className='skills__data'>
-            <i class='bx bxl-graphql' ></i>
-                <div>
+            <i class='bx bx-math'></i>                <div>
                     <h3 className='skills__name'>Flink</h3>
                 </div>
             </div>
             <div className='skills__data'>
-            <i class='bx bxl-graphql' ></i>
-                <div>
+            <i class='bx bx-math'></i>                <div>
                     <h3 className='skills__name'>Storm</h3>
                 </div>
             </div>
             <div className='skills__data'>
-            <i class='bx bxl-graphql' ></i>
-                <div>
+            <i class='bx bx-math'></i>                <div>
                     <h3 className='skills__name'>ETC</h3>
                 </div>
             </div>

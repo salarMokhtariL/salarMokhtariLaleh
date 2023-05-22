@@ -4,7 +4,7 @@ const Ai = () => {
   return (
 
     <div className='skills__content'>
-    <h3 className='skills__title'> Artificial Intelligence </h3>
+    <h3 className='skills__title'> Artificial Intelligence Library & some Algorithms </h3>
 
     <div className='skill__box'>
         <div className='skills__group'>

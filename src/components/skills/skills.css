@@ -19,8 +19,9 @@
 }
 .skill__box{
     display: flex;
-    justify-content: center;
+    justify-content: left;
     column-gap: 2.5rem;
+  
 }
 
 .skills__group{
@@ -36,7 +37,7 @@
 .bx-shape-circle,
 .bxl-graphql,
 .bx-code,
-.bx-library{
+.bx-library,.bxl-android,.bxl-tux,.bxl-windows,.bxl-apple,.bxs-data,.bx-math,.bx-desktop{
     font-size: 1rem;
     color: var(--title-color);
 }

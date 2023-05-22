@@ -4,6 +4,8 @@ import Backend from './Backend'
 import Ai from './Ai'
 import Frontend from './Frontend'
 import SDT from './SDT'
+import Database from './Databes'
+import OS from './OS'
 
 
 const Skills = () => {
@@ -22,8 +24,9 @@ const Skills = () => {
         </div>
         <div></div>
         <div className='skills__container container grid'>
-            <Ai/>
-            <Backend/>
+            <Database/>
+            <OS/>
+            <Frontend/>
         </div>
 
     </section>
