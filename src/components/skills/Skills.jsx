@@ -20,13 +20,10 @@ const Skills = () => {
             <Ai/>
             <Backend/>
             <SDT/>
-
-        </div>
-        <div></div>
-        <div className='skills__container container grid'>
             <Database/>
             <OS/>
             <Frontend/>
+
         </div>
 
     </section>
