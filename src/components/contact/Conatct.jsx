@@ -42,7 +42,7 @@ const Conatct = () => {
             </div>
 
             <div className='contact__content'>
-                <h3 className='contact__title'>Talk to me</h3>
+                <h3 className='contact__title'>Send Message</h3>
 
                 <form className='contact__form'>
                     <div className='contact__form-dive'>
@@ -55,7 +55,7 @@ const Conatct = () => {
                         <input type='email' name="email" className="contact__form-input" placeholder='Your Email'></input>
                     </div>
 
-                    <div className='contact__form-dive'>
+                    <div className='contact__form-dive contact__form-area'>
                         <label className='contact__form-tag'>Message</label>
                         <textarea name='subject' cols="30" rows="10" className='contact__form-input' placeholder='Your Message'></textarea>
                     </div>
