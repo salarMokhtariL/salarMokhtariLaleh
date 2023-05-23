@@ -8,7 +8,7 @@ const About = () => {
   return (
     <section className='about section' id='about'>
         <h2 className='section__title'>About Me</h2>
-        <span className='section__subtitle'>My resume</span>
+        <span className='section__subtitle'></span>
 
         <div className='about__container container grid'>
             <img src={AboutImg} alt="" className='about__img' />
@@ -17,7 +17,7 @@ const About = () => {
                 <Info/>
 
                 <p className='about__description'>
-                 I am a computer engineering undergraduate student at Tabriz University and I specialize in ML and deep learning.
+                 I am a computer engineering undergraduate student at university of Tabriz and I specialize in ML and deep learning.
                 
                  Passionate about exploring the potential of ML algorithms, I actively participate in research, stay up-to-date with the latest developments, and have strong problem-solving skills. 
                 </p>

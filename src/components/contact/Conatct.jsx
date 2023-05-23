@@ -12,31 +12,22 @@ const Conatct = () => {
 
                 <div className='contact__info'>
                     <div className='contact__card'>
-                    <i class='bx bxs-envelope contact__card-icon'></i>
-
-                    <h3 className='contact__card-title'>Email</h3>
-                    <span className='contact__card-data'>Salarmokhtari0@gmail.com</span>
+                      <i class="uil uil-envelopes contact__card-icon"></i>
+                      <h3 className='contact__card-title'>Email</h3>
+                      <span className='contact__card-data'>Salarmokhtari0@gmail.com</span>
 
                     <a href='mailto:salarmokhtari0@gmail.com' className='contact__button'>Write me <i class='bx bx-chevron-right contact__button-icon'></i></a>
                     </div>
 
                     <div className='contact__card'>
-                        <i class='bx bxl-telegram contact__card-icon'></i>
-
+                        <i class="uil uil-telegram-alt contact__card-icon"></i>
                         <h3 className='contact__card-title'>Telegram</h3>
                         <span className='contact__card-data'>@Salarmokhtaril</span>
 
                         <a href='#' className='contact__button'>Write me <i class='bx bx-chevron-right contact__button-icon'></i></a>
                     </div>
 
-                    <div className='contact__card'>
-                        <i class='bx bxl-messenger contact__card-icon'></i>
-
-                        <h3 className='contact__card-title'>Messenger</h3>
-                        <span className='contact__card-data'>123456</span>
-
-                        <a href='#' className='contact__button'>Write me <i class='bx bx-chevron-right contact__button-icon'></i></a>
-                    </div>
+                    
                 </div>
 
             </div>
