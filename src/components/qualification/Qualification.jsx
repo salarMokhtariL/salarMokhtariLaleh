@@ -12,7 +12,7 @@ const Qualification = () => {
 
     <section className='qualification section' id='edu'>
         <h2 className='section__title'>Education & Experience</h2>
-        <span className='section__subtitle'>My educational background and academic and work experiences</span>
+        <span className='section__subtitle'></span>
 
         <div className='qualification__container container'>
             <div className='qualification__tabs'>
@@ -47,7 +47,7 @@ const Qualification = () => {
                             <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}Tabriz, East Azerbaijan, Iran</span>
                             <div className='qualification__calender'>
                             <i class="uil uil-calendar-alt"></i>{" "}2018 - Present
-                            </div>
+                         </div>
                         </div>
 
                         <div>
