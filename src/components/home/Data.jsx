@@ -8,7 +8,7 @@ function Data() {
 
 
         <h3 className='home__subtitle'>Programmer</h3>
-        <p className='home__description'>I'm Researcher in the fields of Machine Learning and Deep Learning</p>
+        <p className='home__description'>B.Sc. in Computer Engineer at the university of Tabriz</p>
         <a href='#contact' className='button button--flex'> Contact with ME 
         <svg
                   class="button__icon"
