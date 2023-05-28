@@ -8,6 +8,7 @@ import Qualification from './components/qualification/Qualification';
 import Conatct from './components/contact/Conatct';
 import Footer from './components/footer/Footer';
 import Webinars from './components/webinars/Webinars';
+import Preoject from './components/projects/Preoject';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Qualification/>
       <Webinars/>
       <Skills/>
+      <Preoject/>
       <Conatct/>
       <Footer/>
       

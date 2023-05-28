@@ -1,0 +1,23 @@
+.project__container{
+    grid-template-columns: repeat(2,max-content);
+    column-gap: 2rem;
+    justify-content: center;
+}
+.project__content{
+    background-color: var(--container-color) ;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 1.25rem;
+}
+.project__title{
+    padding-top: 5px;
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    text-align: center;
+    margin-bottom: var(--mb-1-5);
+}
+.project__img{
+    height: 100px;
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow);
+}
