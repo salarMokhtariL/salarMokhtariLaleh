@@ -17,9 +17,8 @@ const About = () => {
                 <Info/>
 
                 <p className='about__description'>
-                 I am a computer engineering undergraduate student at university of Tabriz and I specialize in ML and deep learning.
-                
-                 Passionate about exploring the potential of ML algorithms, I actively participate in research, stay up-to-date with the latest developments, and have strong problem-solving skills. 
+                As a passionate student of computer engineering with a strong interest in Artificial Intelligence, I am eager to explore the frontiers of this rapidly growing field and contribute to innovative research and development projects.
+Throughout my academic career, I have gained a solid foundation in computer science, mathematics, and related disciplines, and have begun to develop expertise in areas such as machine learning, natural language processing, and computer vision. Through internships and coursework, I have also gained practical experience in applying AI to real-world problems and have demonstrated strong analytical, problem-solving, and communication skills.
                 </p>
 
                 <a download="" href={CV} className='button button--flex'>Download Resume

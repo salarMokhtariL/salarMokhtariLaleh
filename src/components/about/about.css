@@ -5,7 +5,7 @@
 }
 
 .about__img{
-    width: 350px;
+    width: 400px;
     border-radius: 1.5rem;
     justify-self: center;
     box-shadow: var(--shadow);
@@ -36,6 +36,7 @@
 
 .about__subtitle{
     font-size: var(--tiny-font-size);
+    color: var(--title-color);
 }
 
 .about__description{

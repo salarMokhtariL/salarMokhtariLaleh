@@ -9,6 +9,8 @@ import Conatct from './components/contact/Conatct';
 import Footer from './components/footer/Footer';
 import Webinars from './components/webinars/Webinars';
 import Preoject from './components/projects/Preoject';
+import Volunteer from './components/volunteer/Volunteer';
+import Certifications from './components/certifiacte/Certifications';
 
 const App = () => {
   return (
@@ -19,8 +21,10 @@ const App = () => {
       <Home/>
       <About/>
       <Qualification/>
+      <Volunteer/>
       <Webinars/>
       <Skills/>
+      <Certifications/>
       <Preoject/>
       <Conatct/>
       <Footer/>
