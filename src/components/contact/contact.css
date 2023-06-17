@@ -7,7 +7,7 @@
 
 .contact__title{
     text-align: center;
-    font-size: var(--h3-font-siz);
+    font-size: var(--h3-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-1-5);
 }
