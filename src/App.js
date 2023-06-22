@@ -11,6 +11,7 @@ import Webinars from './components/webinars/Webinars';
 import Preoject from './components/projects/Preoject';
 import Volunteer from './components/volunteer/Volunteer';
 import Certifications from './components/certifiacte/Certifications';
+import Work from './components/work/Work';
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
       <Webinars/>
       <Skills/>
       <Certifications/>
+      <Work/>
       <Preoject/>
       <Conatct/>
       <Footer/>
