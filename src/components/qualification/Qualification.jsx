@@ -23,7 +23,7 @@ const Qualification = () => {
                     : 'qualification__button button--flex'}
                     onClick={() => toggleTab(1)}
                     >
-                    <i className='uil uil-graduation-cap qualification__active qualification__icon'></i>{" "}Education
+                    <i className='uil uil-graduation-cap  qualification__icon'></i>{" "}Education
                 </div>
 
                 <div className={

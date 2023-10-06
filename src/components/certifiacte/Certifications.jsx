@@ -22,7 +22,7 @@ const Certifications = () => {
                     : 'qualification__button button--flex'}
                     onClick={() => toggleTab(1)}
                     >
-                    <i className='uil uil-robot qualification__active qualification__icon'></i>{" "}Artificial Intelligence
+                    <i className='uil uil-robot qualification__icon'></i>{" "}Artificial Intelligence
                 </div>
 
                 <div className={

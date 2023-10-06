@@ -5,9 +5,9 @@ import GitImg from "../../assets/Github.png"
 
 const Preoject = () => {
   return (
-    <section className='project section' id='project'>
+    <section className='project section' id='github'>
         <h2 className='section__title'>
-            Projects
+            Github
         </h2>
         <span className='section__subtitle'></span>
 
@@ -19,7 +19,7 @@ const Preoject = () => {
 
                 <p className='project1__description'>
                 You can visit my <b>GitHub</b> to see my projects.
-                GitHub user name:<b>@salarMokhtariLaleh</b>
+                GitHub username: <b>@salarMokhtariLaleh</b>
                 </p>
 
                 <a href="https://github.com/salarMokhtariL?tab=repositories" className='button button--flex'>GitHub Repositories{"  "}<i class='bx bx-git-repo-forked'></i>

@@ -4,6 +4,7 @@ import Social from './Social'
 import Data from './Data'
 import ScrollDown from './ScrollDown'
 
+
 const Home = () => {
   return (
     <section className='home section' id='home'>

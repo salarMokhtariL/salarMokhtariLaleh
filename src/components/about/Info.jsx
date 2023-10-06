@@ -13,7 +13,7 @@ const Info = () => {
         <h3 className='about__title'>Webinars</h3>
         <span className='about__subtitle'>1 webinars</span>
       </a>
-      <a className='about__box' href='#project'>
+      <a className='about__box' href='#projects'>
         <i class='bx bx-code-block about__icon' ></i>
         <h3 className='about__title'>Project</h3>
         <span className='about__subtitle'>+ 50 projects</span>

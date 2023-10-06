@@ -10,7 +10,7 @@ import OS from './OS'
 
 const Skills = () => {
   return (
-    <section className='skills section' id='skills'>
+    <section className='skills section' id='skills1'>
         <h2 className='section__title'>
             Skills
         </h2>

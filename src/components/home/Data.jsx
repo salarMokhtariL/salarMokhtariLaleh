@@ -4,11 +4,11 @@ function Data() {
   return (
 
     <div className='home__data'>
-        <h1 className='home__title'>Salar Mokhtari laleh</h1>
+        <h1 className='home__title'>Salar Mokhtari Laleh</h1>
 
 
         <h3 className='home__subtitle'>Programmer</h3>
-        <p className='home__description'>B.Sc. in Computer Engineer at the university of Tabriz</p>
+        <p className='home__description'>B.Sc. in Computer Engineer at the University of Tabriz</p>
         <a href='#contact' className='button button--flex'> Contact with ME 
         <svg
                   class="button__icon"

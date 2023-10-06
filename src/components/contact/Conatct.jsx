@@ -14,7 +14,7 @@ const Conatct = () => {
                     <div className='contact__card'>
                       <i class="uil uil-envelopes contact__card-icon"></i>
                       <h3 className='contact__card-title'>Email</h3>
-                      <span className='contact__card-data'>Salarmokhtari0@gmail.com</span>
+                      <span className='contact__card-data'>salar.m.laleh@gmail.com</span>
 
                     <a href='mailto:salarmokhtari0@gmail.com' className='contact__button'>Write me <i class='bx bx-chevron-right contact__button-icon'></i></a>
                     </div>
