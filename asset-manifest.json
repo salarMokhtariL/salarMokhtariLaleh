@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Salar-Mokhtari-Laleh/static/css/main.8882584b.css",
+    "main.js": "/Salar-Mokhtari-Laleh/static/js/main.9ceba607.js",
+    "static/media/work5.png": "/Salar-Mokhtari-Laleh/static/media/work5.faa1fea86805073abd24.png",
+    "static/media/work4.png": "/Salar-Mokhtari-Laleh/static/media/work4.e57f097640b0b13e7040.png",
+    "static/media/work1.png": "/Salar-Mokhtari-Laleh/static/media/work1.7b5188a553f58d61d089.png",
+    "static/media/work2.png": "/Salar-Mokhtari-Laleh/static/media/work2.2aee6ce32cfaabaecf5f.png",
+    "static/media/Salar Mokhtari Laleh.pdf": "/Salar-Mokhtari-Laleh/static/media/Salar Mokhtari Laleh.47f0fea2b9dcc3cf2cf3.pdf",
+    "static/media/work3.png": "/Salar-Mokhtari-Laleh/static/media/work3.7d5953ee560d61758cb7.png",
+    "static/media/home1.jpg": "/Salar-Mokhtari-Laleh/static/media/home1.caa408e72afd831c4b79.jpg",
+    "static/media/Github.png": "/Salar-Mokhtari-Laleh/static/media/Github.abb5df5cb6033db6a886.png",
+    "static/media/web.jpeg": "/Salar-Mokhtari-Laleh/static/media/web.d5f03924f733e376a349.jpeg",
+    "index.html": "/Salar-Mokhtari-Laleh/index.html",
+    "main.8882584b.css.map": "/Salar-Mokhtari-Laleh/static/css/main.8882584b.css.map",
+    "main.9ceba607.js.map": "/Salar-Mokhtari-Laleh/static/js/main.9ceba607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8882584b.css",
+    "static/js/main.9ceba607.js"
+  ]
+}
