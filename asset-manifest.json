@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/salarMokhtariLaleh/static/css/main.8882584b.css",
-    "main.js": "/salarMokhtariLaleh/static/js/main.8dcc7e96.js",
+    "main.css": "/salarMokhtariLaleh/static/css/main.f37311fa.css",
+    "main.js": "/salarMokhtariLaleh/static/js/main.0e9a64b1.js",
     "static/media/work5.png": "/salarMokhtariLaleh/static/media/work5.faa1fea86805073abd24.png",
     "static/media/work4.png": "/salarMokhtariLaleh/static/media/work4.e57f097640b0b13e7040.png",
     "static/media/work1.png": "/salarMokhtariLaleh/static/media/work1.7b5188a553f58d61d089.png",
     "static/media/work2.png": "/salarMokhtariLaleh/static/media/work2.2aee6ce32cfaabaecf5f.png",
-    "static/media/Salar Mokhtari Laleh.pdf": "/salarMokhtariLaleh/static/media/Salar Mokhtari Laleh.47f0fea2b9dcc3cf2cf3.pdf",
     "static/media/work3.png": "/salarMokhtariLaleh/static/media/work3.7d5953ee560d61758cb7.png",
-    "static/media/home1.jpg": "/salarMokhtariLaleh/static/media/home1.caa408e72afd831c4b79.jpg",
+    "static/media/Keyavie.jpg": "/salarMokhtariLaleh/static/media/Keyavie.c1fafbcb16af251e3c06.jpg",
+    "static/media/Salar Mokhtari Laleh.pdf": "/salarMokhtariLaleh/static/media/Salar Mokhtari Laleh.0c61196662bf8389b55a.pdf",
+    "static/media/about.jpeg": "/salarMokhtariLaleh/static/media/about.f65af0b010661a862e3e.jpeg",
+    "static/media/Salaehpour.png": "/salarMokhtariLaleh/static/media/Salaehpour.5c83a898b448a273c529.png",
+    "static/media/mortazavi.png": "/salarMokhtariLaleh/static/media/mortazavi.a9e2e76f9cc2aa97da99.png",
     "static/media/Github.png": "/salarMokhtariLaleh/static/media/Github.abb5df5cb6033db6a886.png",
     "static/media/web.jpeg": "/salarMokhtariLaleh/static/media/web.d5f03924f733e376a349.jpeg",
+    "static/media/Far.png": "/salarMokhtariLaleh/static/media/Far.a28824e210e25c37b100.png",
+    "static/media/salarMokhtariLaleh.jpeg": "/salarMokhtariLaleh/static/media/salarMokhtariLaleh.548c17a2df73a14fc6cc.jpeg",
     "index.html": "/salarMokhtariLaleh/index.html",
-    "main.8882584b.css.map": "/salarMokhtariLaleh/static/css/main.8882584b.css.map",
-    "main.8dcc7e96.js.map": "/salarMokhtariLaleh/static/js/main.8dcc7e96.js.map"
+    "main.f37311fa.css.map": "/salarMokhtariLaleh/static/css/main.f37311fa.css.map",
+    "main.0e9a64b1.js.map": "/salarMokhtariLaleh/static/js/main.0e9a64b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.8882584b.css",
-    "static/js/main.8dcc7e96.js"
+    "static/css/main.f37311fa.css",
+    "static/js/main.0e9a64b1.js"
   ]
 }
