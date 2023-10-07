@@ -61,9 +61,8 @@
 .ref__img{
     width: 100px;
     border-radius: 10px;
-    align-items: center;
-    margin-left: 130px;
-    margin-right: 150px;
+    justify-self: center;
+
     box-shadow: var(--shadow);
 }
 .mail{
