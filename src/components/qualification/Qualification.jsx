@@ -11,7 +11,8 @@ const Qualification = () => {
   return (
 
     <section className='qualification section' id='edu'>
-        <h2 className='section__title'>Education & Experience</h2>
+        <h2 className='section__title'>Education & Academic Experience 
+ </h2>
         <span className='section__subtitle'></span>
 
         <div className='qualification__container container'>
@@ -32,7 +33,8 @@ const Qualification = () => {
                     : 'qualification__button button--flex'}
                     onClick={() => toggleTab(2)}
                     >
-                    <i className='uil uil-bag-alt qualification__icon'></i>{" "}Experience
+                    <i className='uil uil-bag-alt qualification__icon'></i>{" "}Academic Experience 
+
                 </div>
             </div>
 
@@ -82,12 +84,12 @@ const Qualification = () => {
                 'qualification__content '}>
                     <div className='qualification__data'>
                         <div>
-                            <h3 className='qualification__title'>Teaching Assistant <b>(TA)</b></h3>
-                            <span className='qualification__subtitle'><i class="uil uil-book-open"></i>{" "}<b>Algorithms Design</b></span>
+                            <h3 className='qualification__title'>TA <b>Engineering Probability and Statistics </b></h3>
                             <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}University of Tabriz, Tabriz, East Azerbaijan, Iran</span>
-                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Pedram Salehpour</span>
+                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Seyed Amir Mortazavi
+</span>
                             <div className='qualification__calender'>
-                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Jan 2023 - Present
+                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Sep 2023 - Present
                             </div>
                         </div>
 
@@ -105,23 +107,24 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className='qualification__title'>Artificial Intelligence Researcher</h3>
-                            <span className='qualification__subtitle'><i class="uil uil-building"></i>{" "}<b>Sobh Parlar Asia Industrial co. </b>· Part-time</span>
-                            <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}Tabrīz, East Azerbaijan, Iran</span>
+                            <h3 className='qualification__title'>TA <b>Software Engineer I</b> </h3>
+                            <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}University of Tabriz, Tabriz, East Azerbaijan, Iran</span>
+                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr. Leili Farzinvash
+
+</span>
                             <div className='qualification__calender'>
-                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Aug 2022 - Oct 2022
+                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Sep 2023 - Present
                             </div>
                         </div>
                     </div>
 
                     <div className='qualification__data'>
                      <div>
-                            <h3 className='qualification__title'>Teaching Assistant <b>(TA)</b></h3>
-                            <span className='qualification__subtitle'><i class="uil uil-book-open"></i>{" "}<b>Linear Algebra & its Applications</b></span>
+                            <h3 className='qualification__title'>TA <b>Algorithm Design</b></h3>
                             <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}University of Tabriz, Tabriz, East Azerbaijan, Iran</span>
-                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Seyed Amir Mortazavi</span>
+                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Pedram Salehpour</span>
                             <div className='qualification__calender'>
-                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Apr 2021 - Aug 2022
+                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Feb 2023 - Jun 2023
                             </div>
                         </div>
 
@@ -130,6 +133,7 @@ const Qualification = () => {
                             <span className='qualification__line'></span>
                         </div>
                     </div>
+                    
 
                     <div className='qualification__data'>
                         <div></div>
@@ -139,8 +143,19 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className='qualification__title'>Teaching Assistant <b>(TA)</b></h3>
-                            <span className='qualification__subtitle'><i class="uil uil-book-open"></i>{" "}<b>Discrete Mathematics</b></span>
+                            <h3 className='qualification__title'>TA <b>Linear Algebra and it's applications</b></h3>
+                            <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}University of Tabriz, Tabriz, East Azerbaijan, Iran</span>
+                            <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Seyed Amir Mortazavi</span>
+                            <div className='qualification__calender'>
+                                <i className='uil uil-calender-alt'></i><i class="uil uil-calendar-alt">{" "}</i>Apr 2021 - Sep 2022
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div className='qualification__data'>
+                     <div>
+                            <h3 className='qualification__title'>TA <b> Discrete Mathematics </b></h3>
                             <span className='qualification__subtitle'><i class="uil uil-location-point"></i>{" "}University of Tabriz, Tabriz, East Azerbaijan, Iran</span>
                             <span className='qualification__subtitle'><i class="uil uil-user"></i>{" "}Dr.Seyed Amir Mortazavi</span>
                             <div className='qualification__calender'>
@@ -148,7 +163,12 @@ const Qualification = () => {
                             </div>
                         </div>
 
+                        <div>
+                            <span className='qualification__rounder'></span>
+                            <span className='qualification__line'></span>
+                        </div>
                     </div>
+                    
 
                 </div>
 

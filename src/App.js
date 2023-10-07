@@ -12,6 +12,8 @@ import Preoject from './components/projects/Preoject';
 import Volunteer from './components/volunteer/Volunteer';
 import Certifications from './components/certifiacte/Certifications';
 import Work from './components/work/Work';
+import Exames from './components/exams/Exames';
+import References from './components/references/References';
 
 const App = () => {
   return (
@@ -25,10 +27,10 @@ const App = () => {
       <Volunteer/>
       <Webinars/>
       <Skills/>
+      <Exames/>
       <Certifications/>
       <Work/>
-      <Preoject/>
-      <Conatct/>
+      <References/>
       <Footer/>
       
     </main>

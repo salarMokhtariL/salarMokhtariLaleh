@@ -15,6 +15,14 @@
     gap: 0.5rem;
     margin-bottom: var(--mb-2);
 }
+.about__info1{
+    margin-top: 50px;
+    justify-content: center;
+    grid-template-columns: repeat(6, 140px);
+    gap: 0.5rem;
+    margin-bottom: var(--mb-2);
+}
+
 
 .about__box{
     background-color: var(--container-color);
@@ -44,6 +52,11 @@
     padding: 0 1rem 0 0;
     margin-bottom: var(--mb-2-5);
 }
+.research{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 23px;
+}
 
 
 /*=============== BREAKPOINTS ===============*/
@@ -71,6 +84,11 @@
         padding: 0 5rem;
         margin-bottom: 2rem;
     }
+    .about__info1{
+        margin-left: 10px;
+        margin-right: 10px;
+        grid-template-columns: repeat(3, 1fr);
+    }
  
   }
   
@@ -79,6 +97,11 @@
     .about__info{
         grid-template-columns: repeat(3, 1fr);
 
+    }
+    .about__info1{
+        margin-left: 10px;
+        margin-right: 10px;
+        grid-template-columns: repeat(2, 1fr);
     }
     .about__description{
         padding: 0;

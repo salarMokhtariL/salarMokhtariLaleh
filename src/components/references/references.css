@@ -1,0 +1,112 @@
+.skills__container1{
+    grid-template-columns: repeat(2, 500px);
+    column-gap: 2rem;
+    justify-content: center;
+}
+
+.skills__content1{
+    background-color: var(--container-color) ;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 1.25rem;
+    text-align: center;
+}
+
+.skills__title1{
+    font-size: 15px;
+    font-weight: var(--font-medium);
+    text-align: center;
+}
+.title__bold{
+    color: black;
+    font-size: 20px;
+}
+.skill__box1{
+    display: flex;
+    justify-content: center;
+    column-gap: 2.5rem;
+  
+}
+
+.skills__group1{
+    display: grid;
+    align-items: flex-start;
+    row-gap: 1rem;
+}
+.skills__data1{
+    display: flex;
+    column-gap: 0.5rem;
+}
+.skills .bxs-award,
+.bx-shape-circle,
+.bxl-graphql,
+.bx-code,
+.bx-library,.bxl-android,.bxl-tux,.bxl-windows,.bxl-apple,.bxs-data,.bx-math,.bx-desktop{
+    font-size: 1rem;
+    color: var(--title-color);
+}
+
+.skills__name1{
+    font-size: 0.75rem;
+    font-weight: var(--font-medium);
+    text-align: center;
+    justify-self: center;
+}
+
+.skills__level1{
+    font-size: 0.75rem;
+    text-align: center;
+}
+
+.ref__img{
+    width: 100px;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 130px;
+    margin-right: 150px;
+    box-shadow: var(--shadow);
+}
+.mail{
+    color:var(--title-color);
+}
+
+.ref__social{
+    font-size: 1.25rem;
+    color: var(--title-color);
+}
+.ref__social:hover{
+    color: var(--title-color-dark);
+}
+@media screen and (max-width: 992px) {
+
+    .skills__container1{
+        grid-template-columns: max-content;
+        row-gap: 2rem;
+    }
+}
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+  
+  }
+  
+  @media screen and (max-width: 576px) {
+    .skills__container1{
+        grid-template-columns: 1fr;
+    }
+    .skills__content1{
+        padding: 1.5rem;
+    }
+
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+    .skill__box1{
+        column-gap: 1.25rem;
+    }
+    .skills__name1{
+        font-size: var(--small-font-size);
+    }
+   
+  }

@@ -6,7 +6,7 @@ const Info = () => {
       <div className='about__box'>
         <i class='bx bx-clipboard about__icon'></i>
         <h3 className='about__title'>Articles</h3>
-        <span className='about__subtitle'>0 papers</span>
+        <span className='about__subtitle'>1 papers</span>
       </div>
       <a className='about__box' href='#webinars'>
         <i class='bx bx-microphone about__icon' ></i>   

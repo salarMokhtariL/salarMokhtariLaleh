@@ -1,8 +1,9 @@
 import React from 'react'
 import './about.css'
-import AboutImg from "../../assets/home1.jpg"
+import AboutImg from "../../assets/salarMokhtariLaleh.jpeg"
 import CV from "../../assets/Salar Mokhtari Laleh.pdf"
 import Info from './Info'
+import Interest from './Interset'
 
 const About = () => {
   return (
@@ -25,8 +26,13 @@ Throughout my academic career, I have gained a solid foundation in computer scie
   
                 </a>
                 
+
             </div>
+
         </div>
+        <h3 className='research'>Research Interests</h3>
+        <Interest/>
+
     </section>
   )
 }
