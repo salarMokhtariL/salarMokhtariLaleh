@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/salarMokhtariLaleh/static/css/main.f37311fa.css",
+    "main.css": "/salarMokhtariLaleh/static/css/main.19cbb282.css",
     "main.js": "/salarMokhtariLaleh/static/js/main.0e9a64b1.js",
     "static/media/work5.png": "/salarMokhtariLaleh/static/media/work5.faa1fea86805073abd24.png",
     "static/media/work4.png": "/salarMokhtariLaleh/static/media/work4.e57f097640b0b13e7040.png",
@@ -17,11 +17,11 @@
     "static/media/Far.png": "/salarMokhtariLaleh/static/media/Far.a28824e210e25c37b100.png",
     "static/media/salarMokhtariLaleh.jpeg": "/salarMokhtariLaleh/static/media/salarMokhtariLaleh.548c17a2df73a14fc6cc.jpeg",
     "index.html": "/salarMokhtariLaleh/index.html",
-    "main.f37311fa.css.map": "/salarMokhtariLaleh/static/css/main.f37311fa.css.map",
+    "main.19cbb282.css.map": "/salarMokhtariLaleh/static/css/main.19cbb282.css.map",
     "main.0e9a64b1.js.map": "/salarMokhtariLaleh/static/js/main.0e9a64b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f37311fa.css",
+    "static/css/main.19cbb282.css",
     "static/js/main.0e9a64b1.js"
   ]
 }
